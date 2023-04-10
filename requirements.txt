@@ -1,0 +1,5 @@
+
+
+py -m venv myenv
+
+pip install django crispy-forms
